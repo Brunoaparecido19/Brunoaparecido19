@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo projetos pessoais.
 - 🎓 &nbsp; Estudando atualmente **JavaScript e TypeScript** na <a href="https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/">Undemy</a>.
-- 💼 &nbsp; **Á PROCURA DA PRIMEIRA OPORTUNIDADE**
+- 💼 &nbsp; **EM BUSCA DE NOVAS OPORTUNIDADES**
 <br>
  <div align="center">
         <a href="https://github.com/Brunoaparecido19">
