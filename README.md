@@ -1,17 +1,17 @@
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
-
+- 💼 &nbsp; **Á PROCURA DA PRIMEIRA OPORTUNIDADE**
+- 🌱 &nbsp; Estudando atualmente sobre **TypeScript**.
+<br>
  <div align="center">
         <a href="https://github.com/Brunoaparecido19">
             <img height="180em"
-                src="https://github-readme-stats.vercel.app/api?username=Brunoaparecido19&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+                src="https://github-readme-stats.vercel.app/api?username=Brunoaparecido19&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
             <img height="180em"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoaparecido19&layout=compact&langs_count=7&theme=dark" />
     </div>
+ <br>
     <div>
         <h3> :rocket: &nbsp;Minhas Skills </h3>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -22,6 +22,9 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+        <img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white">
     </div>
     <div>
         <h3>DevOps</h3>
