@@ -1,8 +1,8 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo projetos pessoais.
+- 🎓 &nbsp; Estudando atualmente **JavaScript e TypeScript** na <a href="https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/">Undemy</a>.
 - 💼 &nbsp; **Á PROCURA DA PRIMEIRA OPORTUNIDADE**
-- 🌱 &nbsp; Estudando atualmente sobre **TypeScript**.
 <br>
  <div align="center">
         <a href="https://github.com/Brunoaparecido19">
@@ -27,7 +27,7 @@
         <img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white">
     </div>
     <div>
-        <h3>DevOps</h3>
+        <h3> 🗂 &nbsp; DevOps</h3>
         <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
         <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
