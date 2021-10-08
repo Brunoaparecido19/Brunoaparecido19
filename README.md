@@ -1,4 +1,4 @@
-<h3> :man: &nbsp;Bruno A. Paula <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dev Full-Stack</h3>
+<h3> :man: &nbsp;Bruno A. Paula <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dev Full-Stack</h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo projetos pessoais.
 - 🎓 &nbsp; Estudando atualmente **JavaScript e TypeScript** na <a href="https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/">Undemy</a>.
